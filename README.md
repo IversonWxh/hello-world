@@ -1,2 +1,5 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+#  Hello-World
+
+I am Iverson.
+I worked as a Junior Software Engineer and I have about 1 year work experience.My major work was Java Web development based on spring, struts and hibernate framework.I also did some other things like writing test cases,doing detailed designs and so on.
+I am eager to get an opportunity to fully play my ability,my computer skills and English skills.Welcome to bother me!
